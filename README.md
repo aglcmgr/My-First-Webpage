@@ -24,9 +24,9 @@ This is my first HTML project where I learned:
 
 ## Project Structure
 
-My-First-Webpage/
-index.html (Main webpage)
-README.md (This file)
+My First Webpage
+- index.html (Main webpage)
+- README.md (This file)
 
 
 ## Learning Goals
